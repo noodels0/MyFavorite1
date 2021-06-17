@@ -1,0 +1,17 @@
+img {
+  width: 200px;
+}
+body {
+  text-align: center;
+  background-color: linear-gradient(  #E1BEE7 0%, #90CAF9 100%);
+}
+
+#about {
+  padding: 20px;
+  font-size: 20px;
+}
+
+#books {
+    padding: 20px;
+  font-size: 10px;
+}
